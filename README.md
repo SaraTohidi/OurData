@@ -14,12 +14,19 @@ Rodilo is one of the project of [Condor Agency](https://www.condoragency.com/).
 
 The goal in here is to provide up to date inforamtion about COVID-19 by focus in Latin America.
 
-Our team consists of Data Scientists, Researches, Web developers, Designers:
+Our team consists of:
 
-### Carlos Guevara
-### Sara Tohidi
-### Carlos Corredor
-### Rafael Gonzalez
-### Stefania Martinez
-### Antonio Santana
-### Octavio Hernandez
+**Data Scientists:**
+Carlos Guevara
+Sara Tohidi
+
+**Developers:**
+Rafael Gonzalez
+Octavio Hernandez
+
+**Researchers:**
+Stefania Martinez
+
+**CEOs:**
+Carlos Corredor
+Antonio Santana
