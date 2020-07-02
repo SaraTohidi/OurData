@@ -17,16 +17,24 @@ The goal in here is to provide up to date inforamtion about COVID-19 by focus in
 Our team consists of:
 
 **Data Scientists:**
+
 Carlos Guevara
+
 Sara Tohidi
 
 **Developers:**
+
 Rafael Gonzalez
+
 Octavio Hernandez
 
 **Researchers:**
+
 Stefania Martinez
 
+
 **CEOs:**
+
 Carlos Corredor
+
 Antonio Santana
