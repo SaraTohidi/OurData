@@ -36,5 +36,3 @@ Stefania Martinez
 **CEOs:**
 
 Carlos Corredor
-
-Antonio Santana
