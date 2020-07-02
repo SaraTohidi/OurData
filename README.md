@@ -1,3 +1,4 @@
+
 # Introduction
 
 We provided a repository for all the data that we use for our project [Rodilo](https://rodillo.org/).
@@ -8,7 +9,9 @@ The informaiton is based on both regional and country scales. We tried to provid
 
 We use different sources for collecting data, but mostly they are gathered by Bing.
 
+---
 ## Rodilo
+
 
 Rodilo is one of the project of [Condor Agency](https://www.condoragency.com/).
 
@@ -18,21 +21,21 @@ Our team consists of:
 
 **Data Scientists:**
 
-Carlos Guevara
+* Carlos Guevara
 
-Sara Tohidi
+* Sara Tohidi
 
 **Developers:**
 
-Rafael Gonzalez
+* Rafael Gonzalez
 
-Octavio Hernandez
+* Octavio Hernandez
 
 **Researchers:**
 
-Stefania Martinez
+* Stefania Martinez
 
 
 **CEOs:**
 
-Carlos Corredor
+* Carlos Corredor
