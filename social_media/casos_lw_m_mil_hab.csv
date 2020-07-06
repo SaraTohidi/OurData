@@ -1,197 +1,197 @@
 "yesterday","today","Cambio","Región","País","Casos totales","Casos últ. 7 / mil hab","Casos últ. 7 / mil hab ayer"
 1,1,0,"São Paulo","Brasil","275,145.0","7,596.0","7,596.0"
 2,2,0,"Bahia","Brasil","69,467.0","3,197.0","3,197.0"
-3,3,0,"Lima","Perú","151,225.0","2,208.0","2,208.0"
+3,3,0,"Metropolitana de Santiago","Chile","226,128.0","2,486.0","2,541.0"
 4,4,0,"Pará","Brasil","101,207.0","2,169.0","2,169.0"
 5,5,0,"Minas Gerais","Brasil","43,864.0","2,135.0","2,135.0"
 6,6,0,"Rio de Janeiro","Brasil","111,883.0","2,044.0","2,044.0"
-7,7,0,"Ceará","Brasil","108,225.0","2,009.0","2,009.0"
-8,8,0,"Distrito Federal","Brasil","47,071.0","1,846.0","1,846.0"
-9,9,0,"Rio Grande del Norte","Brasil","29,721.0","1,394.0","1,394.0"
-10,10,0,"Espírito Santo","Brasil","45,097.0","1,330.0","1,330.0"
-11,11,0,"Maranhão","Brasil","78,969.0","1,182.0","1,182.0"
-12,12,0,"Paraíba","Brasil","45,057.0","1,114.0","1,114.0"
-13,13,0,"Santa Catarina","Brasil","25,056.0","1,017.0","1,017.0"
-14,14,0,"Goiás","Brasil","23,007.0","924.0","924.0"
-15,15,0,"Roraima","Brasil","14,459.0","895.0","895.0"
-16,16,0,"Paraná","Brasil","21,326.0","886.0","886.0"
-17,17,0,"Amazonas","Brasil","69,893.0","880.0","880.0"
-18,18,0,"Pernambuco","Brasil","58,476.0","854.0","854.0"
-19,19,0,"Rio Grande del Sur","Brasil","25,659.0","849.0","849.0"
-20,20,0,"Alagoas","Brasil","35,117.0","817.0","817.0"
-21,21,0,"Sergipe","Brasil","24,817.0","776.0","776.0"
-22,22,0,"Piauí","Brasil","19,753.0","753.0","753.0"
-23,23,0,"Mato Grosso","Brasil","15,086.0","723.0","723.0"
-24,24,0,"Rondônia","Brasil","20,406.0","654.0","654.0"
-25,25,0,"Amapá","Brasil","28,253.0","510.0","510.0"
-26,26,0,"Piura","Perú","16,101.0","336.0","336.0"
-27,27,0,"Mato Grosso del Sur","Brasil","7,676.0","326.0","326.0"
-28,28,0,"Tocantins","Brasil","10,359.0","268.0","268.0"
-29,29,0,"Acre","Brasil","13,146.0","229.0","229.0"
-30,30,0,"Francisco Morazán","Honduras","5,173.0","216.0","216.0"
-31,31,0,"La Libertad","Perú","9,090.0","186.0","186.0"
-32,32,0,"Loreto","Perú","8,743.0","165.0","165.0"
-33,33,0,"Áncash","Perú","7,553.0","146.0","146.0"
-34,34,0,"Ica","Perú","6,723.0","142.0","142.0"
-35,35,0,"Ucayali","Perú","7,327.0","137.0","137.0"
-36,36,0,"Arequipa","Perú","6,411.0","121.0","121.0"
-37,37,0,"Cochabamba","Bolivia","2,920.0","104.0","104.0"
-38,38,0,"San Martín","Perú","3,975.0","98.0","98.0"
-39,39,0,"San José","Costa Rica","1,358.0","76.0","73.0"
-40,40,0,"Junín","Perú","3,470.0","63.0","63.0"
-41,41,0,"Tumbes","Perú","2,442.0","45.0","45.0"
-42,42,0,"Alajuela","Costa Rica","950.0","31.0","29.0"
-43,43,0,"Heredia","Costa Rica","362.0","15.0","16.0"
-45,44,1,"Guanacaste","Costa Rica","277.0","9.0","8.0"
-44,45,-1,"Puntarenas","Costa Rica","177.0","9.0","9.0"
-46,46,0,"Cartago","Costa Rica","148.0","5.0","5.0"
-47,47,0,"Limón","Costa Rica","133.0","3.0","3.0"
-48,48,0,"Tierra del Fuego Antártida e Islas del Atlántico Sur","Argentina","149.0","1.0","1.0"
-49,49,0,"Hermanas Mirabal","República Dominicana","237.0","1.0","1.0"
-50,50,0,"Buenos Aires","Argentina","20,031.0",NA,NA
-51,51,0,"Chaco","Argentina","1,602.0",NA,NA
-52,52,0,"Córdoba","Argentina","576.0",NA,NA
-53,53,0,"Corrientes","Argentina","116.0",NA,NA
-54,54,0,"Entre Ríos","Argentina","160.0",NA,NA
-55,55,0,"Mendoza","Argentina","135.0",NA,NA
-56,56,0,"Neuquén","Argentina","323.0",NA,NA
-57,57,0,"Río Negro","Argentina","699.0",NA,NA
-58,58,0,"Santa Fe","Argentina","340.0",NA,NA
-59,59,0,"Beni","Bolivia","2,101.0",NA,NA
-60,60,0,"Chuquisaca","Bolivia","422.0",NA,NA
-61,61,0,"La Paz","Bolivia","2,161.0",NA,NA
-62,62,0,"Oruro","Bolivia","699.0",NA,NA
-63,63,0,"Pando","Bolivia","507.0",NA,NA
-64,64,0,"Potosí","Bolivia","576.0",NA,NA
-65,65,0,"Santa Cruz","Bolivia","15,984.0",NA,NA
-66,66,0,"Tarija","Bolivia","331.0",NA,NA
-67,67,0,"Antofagasta","Chile","6,991.0",NA,NA
-68,68,0,"Araucanía","Chile","3,027.0",NA,NA
-69,69,0,"Arica y Parinacota","Chile","1,443.0",NA,NA
-70,70,0,"Atacama","Chile","747.0",NA,NA
-71,71,0,"Bio-Bio","Chile","5,328.0",NA,NA
-72,72,0,"Coquimbo","Chile","2,485.0",NA,NA
-73,73,0,"Los Lagos","Chile","1,466.0",NA,NA
-74,74,0,"Los Ríos","Chile","625.0",NA,NA
-75,75,0,"Magallanes y Antartica Chilena","Chile","1,363.0",NA,NA
-76,76,0,"Maule","Chile","4,504.0",NA,NA
-77,77,0,"Metropolitana de Santiago","Chile","200,861.0",NA,NA
-78,78,0,"Ñuble","Chile","2,195.0",NA,NA
-79,79,0,"O’ Higgins","Chile","4,361.0",NA,NA
-80,80,0,"Tarapacá","Chile","5,442.0",NA,NA
-81,81,0,"Valparaíso","Chile","9,901.0",NA,NA
-82,82,0,"Amazonas","Colombia","2,204.0",NA,NA
-83,83,0,"Antioquia","Colombia","3,009.0",NA,NA
-84,84,0,"Atlántico","Colombia","16,249.0",NA,NA
-85,85,0,"Bolívar","Colombia","7,067.0",NA,NA
-86,86,0,"Boyacá","Colombia","307.0",NA,NA
-87,87,0,"Caldas","Colombia","231.0",NA,NA
-88,88,0,"Cauca","Colombia","258.0",NA,NA
-89,89,0,"Cesar","Colombia","730.0",NA,NA
-90,90,0,"Chocó","Colombia","1,010.0",NA,NA
-91,91,0,"Córdoba","Colombia","458.0",NA,NA
-92,92,0,"Cundinamarca","Colombia","2,036.0",NA,NA
-93,93,0,"Distrito Capital","Colombia","21,541.0",NA,NA
-94,94,0,"Huila","Colombia","310.0",NA,NA
-95,95,0,"La Guajira","Colombia","223.0",NA,NA
-96,96,0,"Magdalena","Colombia","1,298.0",NA,NA
-97,97,0,"Meta","Colombia","1,105.0",NA,NA
-98,98,0,"Nariño","Colombia","2,682.0",NA,NA
-99,99,0,"Norte de Santander","Colombia","248.0",NA,NA
-100,100,0,"Quindío","Colombia","150.0",NA,NA
-101,101,0,"Risaralda","Colombia","424.0",NA,NA
-102,102,0,"Santander","Colombia","490.0",NA,NA
-103,103,0,"Sucre","Colombia","588.0",NA,NA
-104,104,0,"Tolima","Colombia","675.0",NA,NA
-105,105,0,"Valle del Cauca","Colombia","7,660.0",NA,NA
-106,106,0,"Azuay","Ecuador","1,475.0",NA,NA
-107,107,0,"Bolívar","Ecuador","520.0",NA,NA
-108,108,0,"Cañar","Ecuador","464.0",NA,NA
-109,109,0,"Carchi","Ecuador","241.0",NA,NA
-110,110,0,"Chimborazo","Ecuador","643.0",NA,NA
-111,111,0,"Cotopaxi","Ecuador","922.0",NA,NA
-112,112,0,"El Oro","Ecuador","1,817.0",NA,NA
-113,113,0,"Esmeraldas","Ecuador","1,796.0",NA,NA
-114,114,0,"Guayas","Ecuador","14,836.0",NA,NA
-115,115,0,"Imbabura","Ecuador","504.0",NA,NA
-116,116,0,"Loja","Ecuador","708.0",NA,NA
-117,117,0,"Los Ríos","Ecuador","2,099.0",NA,NA
-118,118,0,"Manabí","Ecuador","3,869.0",NA,NA
-119,119,0,"Morona Santiago","Ecuador","541.0",NA,NA
-120,120,0,"Napo","Ecuador","526.0",NA,NA
-121,121,0,"Orellana","Ecuador","548.0",NA,NA
-122,122,0,"Pastaza","Ecuador","553.0",NA,NA
-123,123,0,"Pichincha","Ecuador","6,279.0",NA,NA
-124,124,0,"Santa Elena","Ecuador","901.0",NA,NA
-125,125,0,"Santo Domingo de los Tsáchilas","Ecuador","1,733.0",NA,NA
-126,126,0,"Sucumbíos","Ecuador","343.0",NA,NA
-127,127,0,"Tungurahua","Ecuador","863.0",NA,NA
-128,128,0,"Zamora Chinchipe","Ecuador","428.0",NA,NA
-129,129,0,"Ahuachapán","El Salvador","171.0",NA,NA
-130,130,0,"Cuscatlán","El Salvador","137.0",NA,NA
-131,131,0,"La Libertad","El Salvador","289.0",NA,NA
-132,132,0,"La Paz","El Salvador","129.0",NA,NA
-133,133,0,"San Miguel","El Salvador","138.0",NA,NA
-134,134,0,"San Salvador","El Salvador","1,608.0",NA,NA
-135,135,0,"Santa Ana","El Salvador","202.0",NA,NA
-136,136,0,"Sonsonate","El Salvador","146.0",NA,NA
-137,137,0,"Atlántida","Honduras","367.0",NA,NA
-138,138,0,"Choluteca","Honduras","403.0",NA,NA
-139,139,0,"Colón","Honduras","117.0",NA,NA
-140,140,0,"Comayagua","Honduras","110.0",NA,NA
-141,141,0,"Cortés","Honduras","6,863.0",NA,NA
-142,142,0,"El Paraíso","Honduras","116.0",NA,NA
-143,143,0,"La Paz","Honduras","132.0",NA,NA
-144,144,0,"Valle","Honduras","232.0",NA,NA
-145,145,0,"Yoro","Honduras","284.0",NA,NA
-146,146,0,"Aguascalientes","México","2,035.0",NA,NA
-147,147,0,"Baja California","México","8,164.0",NA,NA
-148,148,0,"Baja California Sur","México","1,287.0",NA,NA
-149,149,0,"Campeche","México","1,503.0",NA,NA
-150,150,0,"Chiapas","México","4,034.0",NA,NA
-151,151,0,"Chihuahua","México","2,730.0",NA,NA
-152,152,0,"Ciudad de México","México","44,243.0",NA,NA
-153,153,0,"Coahuila","México","3,225.0",NA,NA
-154,154,0,"Colima","México","439.0",NA,NA
-155,155,0,"Durango","México","1,437.0",NA,NA
-156,156,0,"Estado de México","México","31,075.0",NA,NA
-157,157,0,"Guanajuato","México","5,703.0",NA,NA
-158,158,0,"Guerrero","México","4,768.0",NA,NA
-159,159,0,"Hidalgo","México","3,482.0",NA,NA
-160,160,0,"Jalisco","México","5,715.0",NA,NA
-161,161,0,"Michoacán","México","5,020.0",NA,NA
-162,162,0,"Morelos","México","2,633.0",NA,NA
-163,163,0,"Nayarit","México","1,433.0",NA,NA
-164,164,0,"Nuevo León","México","4,186.0",NA,NA
-165,165,0,"Oaxaca","México","4,426.0",NA,NA
-166,166,0,"Puebla","México","8,742.0",NA,NA
-167,167,0,"Querétaro","México","1,803.0",NA,NA
-168,168,0,"Quintana Roo","México","3,143.0",NA,NA
-169,169,0,"San Luis Potosí","México","2,508.0",NA,NA
-170,170,0,"Sinaloa","México","7,473.0",NA,NA
-171,171,0,"Sonora","México","6,303.0",NA,NA
-172,172,0,"Tabasco","México","9,219.0",NA,NA
-173,173,0,"Tamaulipas","México","4,825.0",NA,NA
-174,174,0,"Tlaxcala","México","2,177.0",NA,NA
-175,175,0,"Veracruz","México","8,840.0",NA,NA
-176,176,0,"Yucatán","México","3,529.0",NA,NA
-177,177,0,"Zacatecas","México","747.0",NA,NA
-178,178,0,"Caaguazú","Paraguay","190.0",NA,NA
-179,179,0,"Central","Paraguay","144.0",NA,NA
-180,180,0,"Amazonas","Perú","1,845.0",NA,NA
-181,181,0,"Apurímac","Perú","514.0",NA,NA
-182,182,0,"Ayacucho","Perú","1,644.0",NA,NA
-183,183,0,"Cajamarca","Perú","1,774.0",NA,NA
-184,184,0,"Callao","Perú","17,449.0",NA,NA
-185,185,0,"Cusco","Perú","1,680.0",NA,NA
-186,186,0,"Huancavelica","Perú","847.0",NA,NA
-187,187,0,"Huánuco","Perú","1,998.0",NA,NA
-188,188,0,"Lambayeque","Perú","12,892.0",NA,NA
-189,189,0,"Madre de Dios","Perú","1,467.0",NA,NA
-190,190,0,"Moquegua","Perú","881.0",NA,NA
-191,191,0,"Pasco","Perú","898.0",NA,NA
-192,192,0,"Puno","Perú","832.0",NA,NA
-193,193,0,"Tacna","Perú","821.0",NA,NA
+8,7,1,"Ceará","Brasil","108,225.0","2,009.0","2,009.0"
+7,8,-1,"Lima","Perú","162,211.0","1,884.0","2,013.0"
+9,9,0,"Distrito Federal","Brasil","47,071.0","1,846.0","1,846.0"
+10,10,0,"Rio Grande del Norte","Brasil","29,721.0","1,394.0","1,394.0"
+11,11,0,"Espírito Santo","Brasil","45,097.0","1,330.0","1,330.0"
+12,12,0,"Distrito Capital","Colombia","34,131.0","1,269.0","1,245.0"
+13,13,0,"Maranhão","Brasil","78,969.0","1,182.0","1,182.0"
+14,14,0,"Paraíba","Brasil","45,057.0","1,114.0","1,114.0"
+15,15,0,"Santa Catarina","Brasil","25,056.0","1,017.0","1,017.0"
+16,16,0,"Atlántico","Colombia","25,788.0","936.0","991.0"
+17,17,0,"Goiás","Brasil","23,007.0","924.0","924.0"
+18,18,0,"Roraima","Brasil","14,459.0","895.0","895.0"
+19,19,0,"Paraná","Brasil","21,326.0","886.0","886.0"
+20,20,0,"Amazonas","Brasil","69,893.0","880.0","880.0"
+21,21,0,"Pernambuco","Brasil","58,476.0","854.0","854.0"
+22,22,0,"Rio Grande del Sur","Brasil","25,659.0","849.0","849.0"
+23,23,0,"Alagoas","Brasil","35,117.0","817.0","817.0"
+24,24,0,"Sergipe","Brasil","24,817.0","776.0","776.0"
+25,25,0,"Piauí","Brasil","19,753.0","753.0","753.0"
+26,26,0,"Mato Grosso","Brasil","15,086.0","723.0","723.0"
+27,27,0,"Rondônia","Brasil","20,406.0","654.0","654.0"
+28,28,0,"Amapá","Brasil","28,253.0","510.0","510.0"
+29,29,0,"Ciudad de México","México","47,047.0","501.0","501.0"
+30,30,0,"Estado de México","México","33,480.0","462.0","462.0"
+31,31,0,"Nuevo León","México","5,090.0","409.0","409.0"
+32,32,0,"Valle del Cauca","Colombia","11,202.0","353.0","361.0"
+33,33,0,"Santa Cruz","Bolivia","17,873.0","334.0","334.0"
+35,34,1,"Mato Grosso del Sur","Brasil","7,676.0","326.0","326.0"
+34,35,-1,"Pichincha","Ecuador","8,806.0","314.0","327.0"
+37,36,1,"Valparaíso","Chile","12,766.0","286.0","284.0"
+36,37,-1,"Antofagasta","Chile","9,823.0","281.0","286.0"
+38,38,0,"Bolívar","Colombia","9,854.0","273.0","283.0"
+40,39,1,"Tocantins","Brasil","10,359.0","268.0","268.0"
+39,40,-1,"Piura","Perú","17,573.0","258.0","272.0"
+41,41,0,"O’ Higgins","Chile","6,859.0","245.0","249.0"
+46,42,4,"San Martín","Perú","5,589.0","244.0","219.0"
+44,43,1,"Antioquia","Colombia","5,263.0","233.0","222.0"
+43,44,-1,"Acre","Brasil","13,146.0","229.0","229.0"
+42,45,-3,"La Libertad","Perú","10,509.0","229.0","230.0"
+45,46,-1,"Puebla","México","9,934.0","221.0","221.0"
+47,47,0,"Francisco Morazán","Honduras","5,173.0","216.0","216.0"
+48,48,0,"Ica","Perú","8,072.0","213.0","201.0"
+49,49,0,"Bio-Bio","Chile","7,262.0","189.0","199.0"
+50,50,0,"Guanajuato","México","6,785.0","187.0","187.0"
+51,51,0,"Tabasco","México","10,221.0","181.0","181.0"
+52,52,0,"Arequipa","Perú","7,545.0","179.0","179.0"
+53,53,0,"Veracruz","México","9,812.0","173.0","173.0"
+55,54,1,"Maule","Chile","6,144.0","164.0","163.0"
+54,55,-1,"Guayas","Ecuador","16,094.0","152.0","168.0"
+56,56,0,"Tamaulipas","México","5,712.0","152.0","152.0"
+57,57,0,"Sonora","México","7,064.0","151.0","151.0"
+59,58,1,"Áncash","Perú","8,383.0","139.0","143.0"
+58,59,-1,"Lambayeque","Perú","14,011.0","138.0","144.0"
+64,60,4,"San José","Costa Rica","1,989.0","127.0","117.0"
+60,61,-1,"Coahuila","México","3,999.0","127.0","127.0"
+62,62,0,"Cochabamba","Bolivia","3,468.0","122.0","122.0"
+63,63,0,"Jalisco","México","6,386.0","121.0","121.0"
+65,64,1,"La Paz","Bolivia","2,882.0","115.0","115.0"
+66,65,1,"Oaxaca","México","5,081.0","114.0","114.0"
+61,66,-5,"Ucayali","Perú","7,979.0","112.0","126.0"
+68,67,1,"Cundinamarca","Colombia","3,074.0","105.0","109.0"
+72,68,4,"Junín","Perú","4,127.0","103.0","102.0"
+71,69,2,"Yucatán","México","4,138.0","102.0","102.0"
+67,70,-3,"Callao","Perú","18,281.0","102.0","111.0"
+69,71,-2,"Loreto","Perú","9,280.0","100.0","107.0"
+74,72,2,"Nariño","Colombia","3,676.0","97.0","97.0"
+75,73,2,"Baja California","México","8,722.0","97.0","97.0"
+73,74,-1,"Sucre","Colombia","1,549.0","95.0","100.0"
+70,75,-5,"Manabí","Ecuador","4,643.0","94.0","106.0"
+88,76,12,"Tumbes","Perú","3,041.0","92.0","75.0"
+76,77,-1,"Tarapacá","Chile","6,372.0","91.0","94.0"
+77,78,-1,"Sinaloa","México","7,895.0","91.0","91.0"
+78,79,-1,"Michoacán","México","5,506.0","89.0","89.0"
+79,80,-1,"Neuquén","Argentina","547.0","85.0","85.0"
+80,81,-1,"Chuquisaca","Bolivia","637.0","84.0","84.0"
+81,82,-1,"Coquimbo","Chile","3,333.0","84.0","81.0"
+83,83,0,"Guerrero","México","5,183.0","80.0","80.0"
+89,84,5,"Cajamarca","Perú","2,404.0","80.0","74.0"
+85,85,0,"San Luis Potosí","México","2,980.0","79.0","79.0"
+84,86,-2,"Huánuco","Perú","2,628.0","78.0","80.0"
+91,87,4,"Amazonas","Perú","2,448.0","76.0","69.0"
+87,88,-1,"Beni","Bolivia","4,041.0","75.0","75.0"
+90,89,1,"Madre de Dios","Perú","2,058.0","74.0","70.0"
+82,90,-8,"Chocó","Colombia","1,754.0","70.0","80.0"
+86,91,-5,"Magdalena","Colombia","2,017.0","70.0","78.0"
+92,92,0,"Santo Domingo de los Tsáchilas","Ecuador","2,269.0","66.0","66.0"
+93,93,0,"Chaco","Argentina","2,209.0","60.0","64.0"
+96,94,2,"Morona Santiago","Ecuador","992.0","57.0","52.0"
+95,95,0,"Chiapas","México","4,339.0","55.0","55.0"
+94,96,-2,"Azuay","Ecuador","1,917.0","54.0","59.0"
+97,97,0,"Campeche","México","1,810.0","52.0","52.0"
+98,98,0,"Entre Ríos","Argentina","320.0","51.0","51.0"
+101,99,2,"Arica y Parinacota","Chile","1,949.0","51.0","50.0"
+100,100,0,"Quintana Roo","México","3,437.0","51.0","51.0"
+102,101,1,"Hidalgo","México","3,762.0","50.0","50.0"
+103,102,1,"Durango","México","1,736.0","49.0","49.0"
+99,103,-4,"Esmeraldas","Ecuador","2,186.0","47.0","51.0"
+105,104,1,"Atacama","Chile","1,208.0","45.0","46.0"
+113,105,8,"Cesar","Colombia","1,169.0","44.0","37.0"
+104,106,-2,"Loja","Ecuador","1,061.0","44.0","48.0"
+107,107,0,"Tungurahua","Ecuador","1,203.0","43.0","45.0"
+106,108,-2,"El Oro","Ecuador","2,156.0","42.0","45.0"
+108,109,-1,"Morelos","México","2,829.0","42.0","42.0"
+110,110,0,"Los Lagos","Chile","1,856.0","41.0","39.0"
+109,111,-2,"Tolima","Colombia","1,090.0","40.0","40.0"
+118,112,6,"Los Ríos","Ecuador","2,415.0","40.0","35.0"
+111,113,-2,"Chihuahua","México","2,958.0","39.0","39.0"
+112,114,-2,"Nayarit","México","1,657.0","38.0","38.0"
+122,115,7,"Araucanía","Chile","3,369.0","36.0","33.0"
+115,116,-1,"Santander","Colombia","846.0","36.0","36.0"
+127,117,10,"Alajuela","Costa Rica","1,130.0","36.0","30.0"
+123,118,5,"Ñuble","Chile","2,533.0","35.0","33.0"
+117,119,-2,"La Guajira","Colombia","559.0","34.0","35.0"
+116,120,-4,"Cotopaxi","Ecuador","1,203.0","34.0","36.0"
+120,121,-1,"Aguascalientes","México","2,219.0","34.0","34.0"
+121,122,-1,"Tlaxcala","México","2,369.0","34.0","34.0"
+114,123,-9,"Orellana","Ecuador","821.0","33.0","37.0"
+126,124,2,"Ayacucho","Perú","1,910.0","33.0","31.0"
+125,125,0,"Tarija","Bolivia","537.0","31.0","31.0"
+119,126,-7,"Pastaza","Ecuador","805.0","31.0","34.0"
+124,127,-3,"Pasco","Perú","1,155.0","31.0","33.0"
+128,128,0,"Oruro","Bolivia","878.0","29.0","29.0"
+129,129,0,"Bolívar","Ecuador","740.0","27.0","28.0"
+134,130,4,"Imbabura","Ecuador","712.0","27.0","23.0"
+130,131,-1,"Baja California Sur","México","1,437.0","25.0","25.0"
+136,132,4,"Heredia","Costa Rica","487.0","24.0","22.0"
+135,133,2,"Cusco","Perú","1,875.0","24.0","23.0"
+140,134,6,"Jujuy","Argentina","174.0","23.0","19.0"
+131,135,-4,"Cauca","Colombia","477.0","23.0","24.0"
+132,136,-4,"Sucumbíos","Ecuador","521.0","23.0","24.0"
+137,137,0,"Chimborazo","Ecuador","820.0","22.0","22.0"
+138,138,0,"Puno","Perú","1,011.0","22.0","22.0"
+133,139,-6,"Zamora Chinchipe","Ecuador","605.0","21.0","24.0"
+139,140,-1,"Meta","Colombia","1,305.0","19.0","21.0"
+147,141,6,"Moquegua","Perú","1,020.0","18.0","14.0"
+141,142,-1,"Tacna","Perú","971.0","18.0","19.0"
+142,143,-1,"Querétaro","México","1,893.0","17.0","17.0"
+145,144,1,"Risaralda","Colombia","587.0","16.0","15.0"
+143,145,-2,"Napo","Ecuador","652.0","16.0","16.0"
+144,146,-2,"Zacatecas","México","842.0","16.0","16.0"
+146,147,-1,"Colima","México","529.0","15.0","15.0"
+152,148,4,"Carchi","Ecuador","354.0","14.0","12.0"
+149,149,0,"Pando","Bolivia","567.0","12.0","12.0"
+150,150,0,"Potosí","Bolivia","641.0","12.0","12.0"
+148,151,-3,"Amazonas","Colombia","2,328.0","11.0","13.0"
+151,152,-1,"Cañar","Ecuador","558.0","11.0","12.0"
+155,153,2,"Huancavelica","Perú","940.0","11.0","11.0"
+153,154,-1,"Boyacá","Colombia","409.0","10.0","11.0"
+154,155,-1,"Norte de Santander","Colombia","354.0","10.0","11.0"
+159,156,3,"Guanacaste","Costa Rica","326.0","10.0","8.0"
+160,157,3,"Puntarenas","Costa Rica","228.0","10.0","8.0"
+157,158,-1,"Los Ríos","Chile","720.0","9.0","9.0"
+158,159,-1,"Cartago","Costa Rica","186.0","9.0","8.0"
+156,160,-4,"Santa Fe","Argentina","429.0","8.0","9.0"
+162,161,1,"Apurímac","Perú","578.0","8.0","7.0"
+161,162,-1,"Huila","Colombia","369.0","7.0","7.0"
+164,163,1,"Chubut","Argentina","148.0","5.0","5.0"
+165,164,1,"Limón","Costa Rica","161.0","5.0","5.0"
+163,165,-2,"Santa Elena","Ecuador","946.0","5.0","6.0"
+166,166,0,"Mendoza","Argentina","176.0","4.0","4.0"
+167,167,0,"Caldas","Colombia","267.0","4.0","4.0"
+169,168,1,"Corrientes","Argentina","118.0","1.0","1.0"
+170,169,1,"Tierra del Fuego Antártida e Islas del Atlántico Sur","Argentina","149.0","1.0","1.0"
+168,170,-2,"Quindío","Colombia","169.0","1.0","2.0"
+171,171,0,"Hermanas Mirabal","República Dominicana","237.0","1.0","1.0"
+172,172,0,"Buenos Aires","Argentina","20,031.0",NA,NA
+173,173,0,"Río Negro","Argentina","699.0",NA,NA
+174,174,0,"Magallanes y Antartica Chilena","Chile","1,363.0",NA,NA
+175,175,0,"Ahuachapán","El Salvador","171.0",NA,NA
+176,176,0,"Cuscatlán","El Salvador","137.0",NA,NA
+177,177,0,"La Libertad","El Salvador","289.0",NA,NA
+178,178,0,"La Paz","El Salvador","129.0",NA,NA
+179,179,0,"San Miguel","El Salvador","138.0",NA,NA
+180,180,0,"San Salvador","El Salvador","1,608.0",NA,NA
+181,181,0,"Santa Ana","El Salvador","202.0",NA,NA
+182,182,0,"Sonsonate","El Salvador","146.0",NA,NA
+183,183,0,"Atlántida","Honduras","367.0",NA,NA
+184,184,0,"Choluteca","Honduras","403.0",NA,NA
+185,185,0,"Colón","Honduras","117.0",NA,NA
+186,186,0,"Comayagua","Honduras","110.0",NA,NA
+187,187,0,"Cortés","Honduras","6,863.0",NA,NA
+188,188,0,"El Paraíso","Honduras","116.0",NA,NA
+189,189,0,"La Paz","Honduras","132.0",NA,NA
+190,190,0,"Valle","Honduras","232.0",NA,NA
+191,191,0,"Yoro","Honduras","284.0",NA,NA
+192,192,0,"Caaguazú","Paraguay","190.0",NA,NA
+193,193,0,"Central","Paraguay","144.0",NA,NA
 194,194,0,"Azua","República Dominicana","180.0",NA,NA
 195,195,0,"Distrito Nacional","República Dominicana","3,828.0",NA,NA
 196,196,0,"Duarte","República Dominicana","774.0",NA,NA
