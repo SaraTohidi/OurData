@@ -3,9 +3,9 @@
 
 We provided a repository for all the data that we use for our project [Rodilo](https://rodillo.org/).
 
-It contains all the informaiton about COVID-19 cases, death, recover, lockdown, mobility, and so on.
+It contains all the information about COVID-19 cases, death, recover, lockdown, mobility, and so on.
 
-The informaiton is based on both regional and country scales. We tried to provide the latest information possible.
+The information is based on both regional and country scales. We tried to provide the latest information possible.
 
 We use different sources for collecting data, but mostly they are gathered by Bing.
 
