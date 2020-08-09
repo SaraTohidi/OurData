@@ -5,7 +5,7 @@ We provided a repository for all the data that we use for our project [Rodilo](h
 
 It contains all the information about COVID-19 cases, death, recover, lockdown, mobility, and so on.
 
-The information is based on both regional and country scales. We tried to provide the latest information possible.
+These information is based on both regional and country scales. We tried to provide the latest information possible.
 
 We use different sources for collecting data, but mostly they are gathered by Bing.
 
